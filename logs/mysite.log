@@ -1,0 +1,8 @@
+[08/Sep/2020 15:58:34] DEBUG [polls.views:46] vote().question_id: 3
+[08/Sep/2020 15:58:53] DEBUG [polls.views:46] vote().question_id: 3
+[08/Sep/2020 15:58:56] DEBUG [polls.views:46] vote().question_id: 2
+[08/Sep/2020 15:58:59] DEBUG [polls.views:46] vote().question_id: 2
+[08/Sep/2020 16:01:40] DEBUG [polls.views:46] vote().question_id: 2
+[08/Sep/2020 16:01:41] DEBUG [polls.views:46] vote().question_id: 2
+[08/Sep/2020 16:01:42] DEBUG [polls.views:46] vote().question_id: 2
+[08/Sep/2020 16:01:45] DEBUG [polls.views:46] vote().question_id: 1
